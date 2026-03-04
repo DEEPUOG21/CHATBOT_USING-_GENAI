@@ -7,6 +7,7 @@ using **local documents, web search, and multiple LLM providers**.
 This project demonstrates a **production-style GenAI architecture**
 combining vector search, embeddings, and LLM APIs.
 
+https://chatbotusing-genai-fefavyopzw8vfcekzyrnlk.streamlit.app/
 ------------------------------------------------------------------------
 
 ## 🚀 Features
@@ -130,7 +131,7 @@ Open in browser:
 ## 👨‍💻 Author
 
 **Deepu Saideep**\
-B.Tech -- Artificial Intelligence & Data Science
+B.E -- Artificial Intelligence & Data Science
 
 GitHub: https://github.com/DEEPUOG21
 
