@@ -1,4 +1,5 @@
-streamlit
+streamlit>=1.24.0
+langchain
 langchain-openai
 langchain-groq
 langchain-google-genai
@@ -7,3 +8,4 @@ langchain-community
 requests
 faiss-cpu
 sentence-transformers
+tiktoken
