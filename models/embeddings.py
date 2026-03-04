@@ -1,6 +1,6 @@
 import os
 from langchain_openai import OpenAIEmbeddings
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 
 def get_embedding_model(provider="openai"):
     """
