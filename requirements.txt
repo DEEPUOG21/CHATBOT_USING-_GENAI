@@ -10,3 +10,4 @@ faiss-cpu
 sentence-transformers
 tiktoken
 langchain-text-splitters
+langchain-huggingface
